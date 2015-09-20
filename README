@@ -1,0 +1,6 @@
+@author Ted Zakrzewski
+
+Simple Sudoku UI I created to showcase my style of coding. 
+Main is located in SudokuGui, if interesed, to run along with other 2 files:
+javac *.java
+java SudokuGui
